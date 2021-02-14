@@ -1,0 +1,5 @@
+classes=1
+train=/content/darknet/firedata/fire-dataset/train/train.txt
+valid=/content/darknet/firedata/fire-dataset/validation/train.txt
+names=/content/darknet/voc.names
+backup=/content/gdrive/My\ Drive/paperwt
